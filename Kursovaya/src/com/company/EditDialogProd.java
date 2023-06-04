@@ -5,7 +5,7 @@ import javax.swing.*;
 public class EditDialogProd extends DialogProd {
 
     @Override
-    public void progress(products parent) {
+    public void progress(animal parent) {
         setVisible(false);
         int row = parent.dataProducts.getSelectedRow();
         parent.dataProducts.setValueAt(name.getText(), row, 0);
@@ -16,7 +16,7 @@ public class EditDialogProd extends DialogProd {
     }
 
     @Override
-    public void init(products parent) {
+    public void init(animal parent) {
         int row = parent.dataProducts.getSelectedRow();
         name = new JTextField(parent.dataProducts.getValueAt(row, 0).toString(), 20);
         country = new JTextField(parent.dataProducts.getValueAt(row, 1).toString(), 20);
@@ -28,7 +28,7 @@ public class EditDialogProd extends DialogProd {
         checkerInt(3,price);
     }
 
-    public EditDialogProd(JFrame owner, products parent, String title){
+    public EditDialogProd(JFrame owner, animal parent, String title){
         super(owner,parent, title);
     };
 }

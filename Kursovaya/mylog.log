@@ -33,3 +33,168 @@
 [DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 396 - Старт Add listener
 [WARN ] 2023-05-26 12:47:52 [AWT-EventQueue-0] employs, 529 - Старт Folder listener
 [WARN ] 2023-05-26 12:50:46 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-06-04 22:07:13 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:07:18 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-06-04 22:09:57 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[DEBUG] 2023-06-04 22:10:05 [AWT-EventQueue-0] AddDialogEmploy, 28 - Старт метода init
+[DEBUG] 2023-06-04 22:10:08 [AWT-EventQueue-0] employs, 404 - Старт Delete listener
+[ERROR] 2023-06-04 22:10:08 [AWT-EventQueue-0] employs, 418 - В окне нет записей
+[DEBUG] 2023-06-04 22:10:10 [AWT-EventQueue-0] employs, 465 - Старт Edit listener
+[ERROR] 2023-06-04 22:10:10 [Thread-17] employs, 494 - В данном окне нет записей
+[DEBUG] 2023-06-04 22:10:12 [AWT-EventQueue-0] employs, 404 - Старт Delete listener
+[ERROR] 2023-06-04 22:10:12 [AWT-EventQueue-0] employs, 418 - В окне нет записей
+[DEBUG] 2023-06-04 22:10:14 [AWT-EventQueue-0] AddDialogEmploy, 28 - Старт метода init
+[DEBUG] 2023-06-04 22:10:31 [AWT-EventQueue-0] AddDialogEmploy, 17 - Старт метода progress
+[WARN ] 2023-06-04 22:10:31 [AWT-EventQueue-0] AddDialogEmploy, 20 - Попытка добавить запись  Еее Еее Еее
+[INFO ] 2023-06-04 22:10:31 [AWT-EventQueue-0] AddDialogEmploy, 22 - Добавлена запись  Еее Еее Еее
+[DEBUG] 2023-06-04 22:10:33 [AWT-EventQueue-0] AddDialogEmploy, 28 - Старт метода init
+[DEBUG] 2023-06-04 22:10:45 [AWT-EventQueue-0] AddDialogEmploy, 17 - Старт метода progress
+[WARN ] 2023-06-04 22:10:45 [AWT-EventQueue-0] AddDialogEmploy, 20 - Попытка добавить запись  Еее Еее Еее
+[INFO ] 2023-06-04 22:10:45 [AWT-EventQueue-0] AddDialogEmploy, 22 - Добавлена запись  Еее Еее Еее
+[DEBUG] 2023-06-04 22:10:48 [AWT-EventQueue-0] employs, 404 - Старт Delete listener
+[DEBUG] 2023-06-04 22:10:50 [AWT-EventQueue-0] employs, 404 - Старт Delete listener
+[DEBUG] 2023-06-04 22:10:55 [AWT-EventQueue-0] AddDialogEmploy, 28 - Старт метода init
+[DEBUG] 2023-06-04 22:11:06 [AWT-EventQueue-0] AddDialogEmploy, 17 - Старт метода progress
+[WARN ] 2023-06-04 22:11:06 [AWT-EventQueue-0] AddDialogEmploy, 20 - Попытка добавить запись  Ее Ее Ее
+[INFO ] 2023-06-04 22:11:06 [AWT-EventQueue-0] AddDialogEmploy, 22 - Добавлена запись  Ее Ее Ее
+[DEBUG] 2023-06-04 22:11:13 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[WARN ] 2023-06-04 22:11:17 [AWT-EventQueue-0] employs, 529 - Старт Folder listener
+[DEBUG] 2023-06-04 22:11:24 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[WARN ] 2023-06-04 22:11:33 [AWT-EventQueue-0] employs, 529 - Старт Folder listener
+[DEBUG] 2023-06-04 22:11:59 [AWT-EventQueue-0] employs, 404 - Старт Delete listener
+[WARN ] 2023-06-04 22:12:01 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-06-04 22:22:09 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:22:10 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-06-04 22:45:21 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:45:23 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-06-04 22:47:36 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:47:38 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-06-04 22:48:33 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[DEBUG] 2023-06-04 22:48:43 [AWT-EventQueue-0] AddDialogEmploy, 28 - Старт метода init
+[DEBUG] 2023-06-04 22:48:54 [AWT-EventQueue-0] employs, 404 - Старт Delete listener
+[ERROR] 2023-06-04 22:48:54 [AWT-EventQueue-0] employs, 418 - В окне нет записей
+[DEBUG] 2023-06-04 22:48:56 [AWT-EventQueue-0] employs, 465 - Старт Edit listener
+[ERROR] 2023-06-04 22:48:56 [Thread-3] employs, 494 - В данном окне нет записей
+[DEBUG] 2023-06-04 22:48:58 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[WARN ] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-06-04 22:49:10 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:49:14 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:50:24 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:50:24 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:50:24 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:50:24 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:50:24 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:50:24 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[WARN ] 2023-06-04 22:51:19 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:51:19 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:51:19 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:51:19 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:51:19 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:51:19 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:51:19 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:51:21 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:51:22 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:51:22 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:51:22 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:51:22 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:51:22 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:51:22 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:51:22 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:51:26 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:53:50 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:53:50 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:53:50 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:53:50 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:53:50 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:53:50 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:53:50 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:53:53 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:57:47 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:57:47 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:57:47 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:57:47 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:57:47 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:57:47 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:57:47 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 22:57:49 [AWT-EventQueue-0] employs, 529 - Старт Folder listener
+[DEBUG] 2023-06-04 22:58:03 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[DEBUG] 2023-06-04 22:58:05 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[WARN ] 2023-06-04 22:58:09 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 22:59:45 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 22:59:45 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 22:59:45 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 22:59:45 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 22:59:45 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 22:59:45 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 22:59:45 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[DEBUG] 2023-06-04 22:59:47 [AWT-EventQueue-0] AddDialogEmploy, 28 - Старт метода init
+[DEBUG] 2023-06-04 23:00:17 [AWT-EventQueue-0] AddDialogEmploy, 17 - Старт метода progress
+[WARN ] 2023-06-04 23:00:17 [AWT-EventQueue-0] AddDialogEmploy, 20 - Попытка добавить запись  Пооо Пооо Плооов
+[INFO ] 2023-06-04 23:00:17 [AWT-EventQueue-0] AddDialogEmploy, 22 - Добавлена запись  Пооо Пооо Плооов
+[DEBUG] 2023-06-04 23:00:19 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[DEBUG] 2023-06-04 23:02:41 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[DEBUG] 2023-06-04 23:03:09 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[WARN ] 2023-06-04 23:04:15 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 23:04:15 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 23:04:15 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 23:04:15 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 23:04:15 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 23:04:15 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 23:04:15 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 23:04:27 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-06-04 23:08:59 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-06-04 23:08:59 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-06-04 23:08:59 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-06-04 23:08:59 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-06-04 23:08:59 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-06-04 23:08:59 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-06-04 23:08:59 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-06-04 23:09:00 [AWT-EventQueue-0] employs, 434 - Закрытие приложения

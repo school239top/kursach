@@ -16,19 +16,19 @@ public abstract class DialogProd extends JDialog {
     protected Boolean[] check = {false,false,false,false};
     private JButton ok = new JButton("Принять");
     private JButton cancel = new JButton("Закрыть");
-    private JLabel nameLab = new JLabel("Название");
-    private JLabel countryLab = new JLabel("Страна производитель");
+    private JLabel nameLab = new JLabel("Животное");
+    private JLabel countryLab = new JLabel("Страна");
     private JLabel weightLab = new JLabel("Вес");
-    private JLabel priceLab = new JLabel("Цена");
+    private JLabel priceLab = new JLabel("Количество");
 
 
-    public abstract void progress(products parent);
+    public abstract void progress(animal parent);
 
 
-    public abstract void init(products parent);
+    public abstract void init(animal parent);
 
 
-    public DialogProd(JFrame owner, products parent, String title) {
+    public DialogProd(JFrame owner, animal parent, String title) {
         super(owner, title, true);
         ok.setEnabled(false);
         // Инит кнопок

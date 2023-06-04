@@ -368,7 +368,7 @@ public class employs {
 
         // Размещение таблицы с данными
         window.add(scroll,BorderLayout.CENTER);
-        log.debug("Подготовка компонентов поиска");
+        //log.debug("Подготовка компонентов поиска");
         // Подготовка компонентов поиска
         comboBox = new JComboBox(new String[]{"Фамилия", "Имя", "Должность"});
         textSearch = new JTextField();
