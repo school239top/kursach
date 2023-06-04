@@ -1,0 +1,35 @@
+[WARN ] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-05-25 23:15:53 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-05-25 23:15:56 [AWT-EventQueue-0] employs, 529 - Старт Folder listener
+[DEBUG] 2023-05-25 23:16:05 [AWT-EventQueue-0] AddDialogEmploy, 28 - Старт метода init
+[DEBUG] 2023-05-25 23:16:28 [AWT-EventQueue-0] AddDialogEmploy, 17 - Старт метода progress
+[WARN ] 2023-05-25 23:16:29 [AWT-EventQueue-0] AddDialogEmploy, 20 - Попытка добавить запись  Березова Анастасия Кассир
+[INFO ] 2023-05-25 23:16:29 [AWT-EventQueue-0] AddDialogEmploy, 22 - Добавлена запись  Березова Анастасия Кассир
+[DEBUG] 2023-05-25 23:16:33 [AWT-EventQueue-0] employs, 465 - Старт Edit listener
+[DEBUG] 2023-05-25 23:16:36 [Thread-27] EditDialogEmploy, 29 - Старт метода Init
+[DEBUG] 2023-05-25 23:16:52 [AWT-EventQueue-0] EditDialogEmploy, 15 - Старт метода progress
+[WARN ] 2023-05-25 23:16:52 [AWT-EventQueue-0] EditDialogEmploy, 18 - Попытка изменить запись Азаматова Алтана Владелец
+[INFO ] 2023-05-25 23:16:52 [AWT-EventQueue-0] EditDialogEmploy, 22 - Заменена на Азаматова Алтана Охранник
+[DEBUG] 2023-05-25 23:16:59 [AWT-EventQueue-0] employs, 404 - Старт Delete listener
+[DEBUG] 2023-05-25 23:17:06 [AWT-EventQueue-0] employs, 504 - Старт Save listener
+[DEBUG] 2023-05-25 23:17:37 [AWT-EventQueue-0] employs, 549 - Запуск нового поиска по ключевому слову: Кривец
+[DEBUG] 2023-05-25 23:17:42 [AWT-EventQueue-0] employs, 551 - Сброс ключевого слова поиска
+[DEBUG] 2023-05-25 23:17:51 [AWT-EventQueue-0] employs, 549 - Запуск нового поиска по ключевому слову: Галина
+[DEBUG] 2023-05-25 23:18:02 [AWT-EventQueue-0] employs, 549 - Запуск нового поиска по ключевому слову: Кассир
+[WARN ] 2023-05-25 23:18:05 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
+[WARN ] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 305 - Старт App.show
+[DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 306 - Создание окна приложения
+[DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 312 - Создание кнопок и прикрепление иконок
+[DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 328 - Добавление кнопок на панель инструментов
+[DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 337 - Размещение панели инструментов
+[DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 341 - Создание таблицы с данными
+[DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 371 - Подготовка компонентов поиска
+[DEBUG] 2023-05-26 12:47:50 [AWT-EventQueue-0] employs, 396 - Старт Add listener
+[WARN ] 2023-05-26 12:47:52 [AWT-EventQueue-0] employs, 529 - Старт Folder listener
+[WARN ] 2023-05-26 12:50:46 [AWT-EventQueue-0] employs, 434 - Закрытие приложения
